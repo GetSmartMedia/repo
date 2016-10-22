@@ -110,7 +110,7 @@ Quick maintenance tool for your device. Modifed code from Raw Maintenance add-on
 </requires>
 <extension point="xbmc.addon.repository" name="KodiMaster Repository">
 <info compressed="false">http://kodimaster.com/master/_repo/addons.xml</info>
-<checksum>http://kodimaster.com/master/_repo/addons.xml.md5</checksum>
+<checksum>https://raw.githubusercontent.com/GetSmartMedia/repo/master/addon.xml.md5.txt</checksum>
 <datadir zip="true">https://github.com/GetSmartMedia/repo</datadir>
 <hashes>false</hashes>
 </extension>
